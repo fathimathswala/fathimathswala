@@ -1,4 +1,4 @@
-# Hi, I'm Fathimathswala 👋
+# Hi, I'm Fathimath Swala 👋
 
 ### BCA Student | AI & Data Analysis
 
@@ -10,15 +10,15 @@ I enjoy learning new technologies, building practical projects, and using AI-ass
 
 ## 👩‍💻 About Me
 
-- 🎓 BCA – AI & Data Analysis
-- 🏫 Digital Bridge International College
-- 📅 2025 – 2028
-- 💡 Interested in Python, Data Analytics, AI, Power BI, Streamlit, and Web Development
-- 🚀 Currently building my programming and development skills through academic and practical projects
+-  BCA – AI & Data Analysis
+-  Digital Bridge International College
+-  2025 – 2028
+-  Interested in Python, Data Analytics, AI, Power BI, Streamlit, and Web Development
+-  Currently building my programming and development skills through academic and practical projects
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Programming
 - Python
@@ -51,9 +51,9 @@ I enjoy learning new technologies, building practical projects, and using AI-ass
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### 📊 Power BI Dashboard Project
+###  Power BI Dashboard Project
 **Technologies:** Power BI | Data Analysis | Data Visualization
 
 - Designed and developed an interactive Power BI dashboard.
@@ -62,7 +62,7 @@ I enjoy learning new technologies, building practical projects, and using AI-ass
 - Used calculated columns and data analysis techniques to identify trends and patterns.
 - Presented complex information in a clear and user-friendly format.
 
-### 🌐 Streamlit Web Application
+###  Streamlit Web Application
 **Technologies:** Python | Streamlit | Data Visualization
 
 - Developed an interactive web application using Python and Streamlit.
@@ -70,7 +70,7 @@ I enjoy learning new technologies, building practical projects, and using AI-ass
 - Implemented user inputs, data display, and visualization components.
 - Created a simple and user-friendly interface for Python-based functionality.
 
-### 🐍 Python Programming Projects
+###  Python Programming Projects
 **Technologies:** Python | Programming | Problem Solving
 
 - Developed Python programs for academic and practical applications.
@@ -78,7 +78,7 @@ I enjoy learning new technologies, building practical projects, and using AI-ass
 - Applied programming logic and problem-solving techniques to different tasks.
 - Used AI-assisted tools for debugging and understanding programming errors.
 
-### 💻 HTML Web Development
+###  HTML Web Development
 **Technologies:** HTML | Web Development
 
 - Created structured HTML web pages for academic and practical purposes.
@@ -87,7 +87,7 @@ I enjoy learning new technologies, building practical projects, and using AI-ass
 
 ---
 
-## 📜 Certifications & Activities
+##  Certifications & Activities
 
 - AI Tools Workshop Participant – Digital Bridge International College
 - Active participation in coding workshops and technical activities
@@ -95,13 +95,13 @@ I enjoy learning new technologies, building practical projects, and using AI-ass
 
 ---
 
-## 🎯 Career Interests
+##  Career Interests
 
 **Python Development | Data Analytics | Artificial Intelligence | Power BI | Streamlit | Web Development**
 
 ---
 
-## 📫 Contact
+##  Contact
 
 **Email:** fathimathswala.bca25.dbi@gmail.com
 
@@ -109,5 +109,5 @@ I enjoy learning new technologies, building practical projects, and using AI-ass
 
 ---
 
-⭐ *Always learning, building, and exploring new technologies.*
+ *Always learning, building, and exploring new technologies.*
 
