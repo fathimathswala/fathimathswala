@@ -1,8 +1,8 @@
 # Hi, I'm Fathimath Swala 👋
 
-### BCA Student | AI & Data Analysis
+### BCA Student | AI & Data Science
 
-I'm a motivated BCA student specializing in **AI and Data Analysis**, with a strong interest in Python development, data analytics, data visualization, web development, and artificial intelligence.
+I'm a motivated BCA student specializing in **AI and Data Science**, with a strong interest in Python development, data analytics, data visualization, web development, and artificial intelligence.
 
 I enjoy learning new technologies, building practical projects, and using AI-assisted tools to improve my coding and problem-solving skills.
 
@@ -10,7 +10,7 @@ I enjoy learning new technologies, building practical projects, and using AI-ass
 
 ## 👩‍💻 About Me
 
--  BCA – AI & Data Analysis
+-  BCA – AI & Data Science
 -  Digital Bridge International College
 -  2025 – 2028
 -  Interested in Python, Data Analytics, AI, Power BI, Streamlit, and Web Development
